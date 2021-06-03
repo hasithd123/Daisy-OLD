@@ -79,7 +79,7 @@ buttons = [
     ],
     [
         InlineKeyboardButton(
-            text="💫 Add Daisy to your group 💫", url="t.me/aimebotlk?startgroup=true"
+            text="💫 Add Daisy to your group 💫", url="t.me/aimelkbot?startgroup=true"
         ),
     ],
 ]
